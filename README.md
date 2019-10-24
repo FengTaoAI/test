@@ -1,7 +1,9 @@
 # 论文题目
 
 In this work,xxxxxxxxxx <br>
-[[Demo Gif]](https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif)
+[[Link one]](https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif)
+[[Link two]](https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif)
+[[Link three]](https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif)
     
 ![baidu](https://github.com/Fonnn/test/blob/master/images/test_image2.png)  
 
