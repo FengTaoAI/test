@@ -1,6 +1,7 @@
 # 论文题目
 
-In this work,摘要摘要摘要摘要摘要摘要xxxxxxxxxx <br>
+This respository contains项目简介简介简介简介简介简介简介简介简介xxxxxxxxxx <br>
+
 [[Paper]](https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif)
 [[Github]](https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif)
 [[example]](https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif)
@@ -9,13 +10,14 @@ In this work,摘要摘要摘要摘要摘要摘要xxxxxxxxxx <br>
 
 ### Overview
 
-We do some experiments use 结构结构结构结构结构结构结构结构 xxxxxxxxxx,
+In this work,摘要摘要摘要摘要摘要摘要摘要摘要摘要摘要xxxxxxxxxx
 
 ![baidu](https://github.com/Fonnn/test/blob/master/images/test_image1.png)
 
 ### Requirements
 
 * Ubuntu 16.04 <br>
+* Python 3.7 <br>
 * Pytorch=1.3.0 <br>
 
 Install enviroment by running:
@@ -26,21 +28,17 @@ bash requirements.sh
 
 ### Training and Testing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Testing on XXX dataset using model,run
 
 ```
-Give the example
+python XXX.py
 ```
 
-And repeat
+We use XXX dataset to train,run
 
 ```
-until finished
+python XXX.py
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
