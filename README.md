@@ -40,15 +40,13 @@ We use XXX dataset to train,run
 python XXX.py
 ```
 
-## Authors
+## License
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Please cite our paper if you find anything helpful,please cite with:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the XXX License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
