@@ -24,7 +24,7 @@ Install enviroment by running:
 bash requirements.sh
 ```
 
-### Installing
+### Training and Testing
 
 A step by step series of examples that tell you how to get a development env running
 
@@ -44,12 +44,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
->数据结构  
->>树  
->>>二叉树  
->>>>平衡二叉树  
->>>>>满二叉树  
+Explain how to run the automated tests for this system 
 
 ### Break down into end to end tests
 
