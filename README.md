@@ -40,7 +40,7 @@ We use XXX dataset to train,run
 python XXX.py
 ```
 
-## License
+## Citation
 
 Please cite our paper if you find anything helpful,please cite with:
 
