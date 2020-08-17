@@ -19,7 +19,7 @@ In this work,摘要摘要摘要摘要摘要摘要摘要摘要摘要摘要xxxxxxx
 This code is tested on a Ubuntu 16.04 machine with a GTX 2080Ti GPU, with the following dependencies,
 
 * Python 3.7 <br>
-* Pytorch=1.3.0 <br>
+* PyTorch=1.3.0 <br>
 * astropy=4.0 <br>
 * matplotlib, numpy <br>
 
