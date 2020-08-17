@@ -16,11 +16,12 @@ In this work,摘要摘要摘要摘要摘要摘要摘要摘要摘要摘要xxxxxxx
 
 ### Dependencies
 
-This code is tested on a Ubuntu 16.04 machine with a GTX 1080Ti GPU, with the following dependencies.
+This code is tested on a Ubuntu 16.04 machine with a GTX 2080Ti GPU, with the following dependencies.
 
 * Python 3.7 <br>
 * Pytorch=1.3.0 <br>
 * astropy=4.0 <br>
+* matplotlib, numpy <br>
 
 Install enviroment by running:
 
