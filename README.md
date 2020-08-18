@@ -9,12 +9,6 @@ Current version provides:
 * Test dataset <br>
 * Visualization result <br>
 
-### Overview
-
-In this work,摘要摘要摘要摘要摘要摘要摘要摘要摘要摘要xxxxxxxxxx
-
-![baidu](https://github.com/Fonnn/test/blob/master/images/test_image1.png)
-
 ### Dependencies
 
 This code is tested on a Ubuntu 16.04 machine with a GTX 2080Ti GPU, with the following dependencies,
@@ -32,7 +26,7 @@ bash requirements.sh
 
 ### Training/Testing Split
 
-* The  '''input/''' folder for testing
+* The folder ```./input``` are testing set
 * All others are training set
 * No subject appears in both training and testing set. They are completely seperate
 
