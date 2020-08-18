@@ -30,7 +30,7 @@ This repo may be able to be used in the CPU environment, but the inference is re
 
 ### Usage
 
-Testing on XXX dataset using model,run
+Testing on XXX dataset using model, run
 
 ```
 python demo.py
@@ -38,7 +38,7 @@ python demo.py
 
 ## Citation
 
-Please cite our paper if you find anything helpful,please cite with:
+Please cite our paper if you find anything helpful, please cite with:
 
 ```
 @article{XXXXXX,
