@@ -1,10 +1,10 @@
-# 论文题目
+# Paper Title
 
-This repository provides code and trained models for our paper [[Link]](https://github.com/FengTaoAI/test/) <br>
+This repo is the official implementation for our paper: Paper Title Paper Title Paper Title. [[Paper]](https://github.com/FengTaoAI/test/) <br>
 
 ![baidu](https://github.com/Fonnn/test/blob/master/images/test_image1.png)
 
-Current version provides:  
+Current repo is still under construction, Current version provides:  
 * Trained models <br>
 * The full test and inference <br>
 * Visualization code <br>
