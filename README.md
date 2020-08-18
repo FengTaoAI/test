@@ -2,7 +2,7 @@
 
 This repo is the official implementation for our paper: Paper Title Paper Title Paper Title. [[Paper]](https://github.com/FengTaoAI/test/) <br>
 
-![baidu](https://github.com/Fonnn/test/blob/master/images/test_image1.png)
+![baidu](https://github.com/Fonnn/test/blob/master/images/test.png)
 
 The repo is still under construction, current version provides, 
 
