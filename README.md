@@ -4,7 +4,8 @@ This repo is the official implementation for our paper: Paper Title Paper Title 
 
 ![baidu](https://github.com/Fonnn/test/blob/master/images/test_image1.png)
 
-Current repo is still under construction, Current version provides:  
+This repo is still under construction, Current version provides: 
+
 * Trained models <br>
 * The full test and inference <br>
 * Visualization code <br>
