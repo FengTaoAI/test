@@ -45,17 +45,5 @@ Please cite our paper if you find anything helpful, please cite with:
   title={论文题目},
   author={XXX XXX, XXX XX, XXX X and XXXX XXXX},
   journal={XXXX},
-  volume={XXXX},
-  year={XXXX}
 }
 ```
-
-## License
-
-This project is licensed under the XXX License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
