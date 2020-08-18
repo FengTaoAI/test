@@ -27,6 +27,7 @@ bash requirements.sh
 ### Training/Testing Split
 
 * The folder ```./input``` are testing set
+* The folder ```./target``` are ground truth for visualization
 * All others are training set
 * No subject appears in both training and testing set. They are completely seperate
 
