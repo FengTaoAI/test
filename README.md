@@ -18,7 +18,7 @@ This code is tested on a Ubuntu 16.04 machine with a GTX 2080Ti GPU, with the fo
 * astropy=4.0 <br>
 * matplotlib, numpy <br>
 
-This repo may be able to be used in the CPU environment, but the inference is relatively slow.
+This repo may be able to be used in the CPU environment, but the inference is relatively slow
 
 ### Training/Testing Split
 
@@ -27,18 +27,12 @@ This repo may be able to be used in the CPU environment, but the inference is re
 * All others are training set
 * No subject appears in both training and testing set. They are completely seperate
 
-### Training and Testing
+### Usage
 
 Testing on XXX dataset using model,run
 
 ```
-python XXX.py
-```
-
-We use XXX dataset to train,run
-
-```
-python XXX.py
+python demo.py
 ```
 
 ## Citation
