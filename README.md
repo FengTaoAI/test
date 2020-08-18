@@ -1,12 +1,13 @@
 # 论文题目
 
 This repository provides code and trained models for our paper [[Link]](https://github.com/FengTaoAI/test/) <br>
-
-[[Paper]](https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif)
-[[Github]](https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif)
-[[example]](https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif)
     
-![baidu](https://github.com/Fonnn/test/blob/master/images/test_image0.png)  
+![baidu](https://github.com/Fonnn/test/blob/master/images/test_image1.png) 
+
+Current version provides:  
+* Trained models <br>
+* Test dataset <br>
+* Visualization code <br>
 
 ### Overview
 
