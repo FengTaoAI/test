@@ -30,6 +30,12 @@ Install enviroment by running:
 bash requirements.sh
 ```
 
+### Training/Testing Split
+
+* The  '''input/''' folder for testing
+* All others are training set
+* No subject appears in both training and testing set. They are completely seperate
+
 ### Training and Testing
 
 Testing on XXX dataset using model,run
