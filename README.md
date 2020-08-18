@@ -1,13 +1,11 @@
 # 论文题目
 
 This repository provides code and trained models for our paper [[Link]](https://github.com/FengTaoAI/test/) <br>
-    
-![baidu](https://github.com/Fonnn/test/blob/master/images/test_image1.png) 
 
 Current version provides:  
 * Trained models <br>
 * Test dataset <br>
-* Visualization code <br>
+* Visualization result <br>
 
 ### Overview
 
