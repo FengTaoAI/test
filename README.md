@@ -18,11 +18,7 @@ This code is tested on a Ubuntu 16.04 machine with a GTX 2080Ti GPU, with the fo
 * astropy=4.0 <br>
 * matplotlib, numpy <br>
 
-Install enviroment by running:
-
-```
-bash requirements.sh
-```
+This repo may be able to be used in the CPU environment, but the inference is relatively slow.
 
 ### Training/Testing Split
 
