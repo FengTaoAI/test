@@ -6,7 +6,7 @@ This repository provides code and trained models for our paper [[Link]](https://
 
 Current version provides:  
 * Trained models <br>
-* Test dataset <br>
+* The full test and inference <br>
 * Visualization code <br>
 
 ### Dependencies
