@@ -1,6 +1,6 @@
 # 论文题目
 
-This respository contains项目简介简介简介简介简介简介简介简介简介xxxxxxxxxx <br>
+This repository provides code and trained models for our paper [[Link]](https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif) <br>
 
 [[Paper]](https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif)
 [[Github]](https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif)
