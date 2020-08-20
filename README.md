@@ -35,6 +35,12 @@ Testing on XXX dataset using model, run
 python demo.py
 ```
 
+
+### Model and Result
+
+![image](https://github.com/Fonnn/test/blob/master/images/test_image2.png)
+The trained model can be downloaded from the folder ```./model```.
+
 ## Citation
 
 Please cite our paper if you find anything helpful, please cite with:
