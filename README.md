@@ -22,7 +22,7 @@ This code is tested on a Ubuntu 16.04 machine with a GTX 2080Ti GPU, with the fo
 
 This repo may be able to be used in the GPU environment, but enough GPU memory is needed
 
-### Training/Testing Split
+### Folder Structure
 
 * The folder ```./input```: continuum images for test
 * The folder ```./output```: estimated abs(Br) and Bp images
