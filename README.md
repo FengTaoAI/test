@@ -7,7 +7,7 @@ This repo is the official implementation for our paper: Solar Magnetic Field Est
 The repo is still under construction, current version provides, 
 
 * Trained models <br>
-* The full test and inference and Visualization <br>
+* The full test inference and Visualization <br>
 * samples of test image <br>
 * samples of test results <br>
 
