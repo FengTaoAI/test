@@ -52,6 +52,5 @@ Please cite our paper if you find anything helpful, please cite with:
 ```
 @article{IC2mag,
   title={Solar Magnetic Field Estimated from the Photospheric Continuum Image with Machine Learning Method},
-  author={XXX XXX, XXX XX, XXX X and XXXX XXXX},
 }
 ```
