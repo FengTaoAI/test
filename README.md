@@ -39,7 +39,7 @@ python demo.py
 ```
 
 
-### Model and Result
+### Experiments
 
 ![image](https://github.com/Fonnn/test/blob/master/images/test_image2.png)
 
