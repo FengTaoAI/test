@@ -20,17 +20,19 @@ This code is tested on a Ubuntu 16.04 machine with a GTX 2080Ti GPU, with the fo
 * astropy=4.0 <br>
 * matplotlib, numpy <br>
 
-This repo may be able to be used in the CPU environment, but the inference is relatively slow
+This repo may be able to be used in the GPU environment, but enough GPU memory is needed
 
 ### Training/Testing Split
 
-* The folder ```./input``` are testing set
-* The folder ```./target``` are ground truth for visualization
-* No subject appears in both training and testing set. They are completely separate
+* The folder ```./input```: continuum images for test
+* The folder ```./output```: estimated abs(Br) and Bp images
+* The folder ```./target```: Br,Bt,Bp from inversion (optional)
+* The folder ```./model```:   two trained models for estimating abs(Br) and Bp
+* The folder ```./resultsamples```:  some jpgs and mp4 samples for visualization
 
 ### Usage
 
-Testing on XXX dataset using model, run
+Testing these models, run
 
 ```
 python demo.py
@@ -41,7 +43,7 @@ python demo.py
 
 ![image](https://github.com/Fonnn/test/blob/master/images/test_image2.png)
 
-The trained model can be downloaded from the folder ```./model```.
+The trained model can be found in the folder ```./model```.
 
 ## Citation
 
