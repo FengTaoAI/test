@@ -8,8 +8,8 @@ The repo is still under construction, current version provides,
 
 * Trained models <br>
 * The full test inference and Visualization <br>
-* samples of test image <br>
-* samples of test results <br>
+* The samples of test image <br>
+* The samples of test results <br>
 
 ### Dependencies
 
@@ -41,18 +41,17 @@ python demo.py
 
 ### Experiments
 
-![image](https://github.com/Fonnn/test/blob/master/images/test_image2.png)
+The data and trained model can be found in the folder ```./input```, ```./model```
 
-The trained model can be found in the folder ```./model```.
+![image](https://github.com/Fonnn/test/blob/master/images/test_image2.png)
 
 ## Citation
 
 Please cite our paper if you find anything helpful, please cite with:
 
 ```
-@article{XXXXXX,
-  title={论文题目},
+@article{IC2mag,
+  title={Solar Magnetic Field Estimated from the Photospheric Continuum Image with Machine Learning Method},
   author={XXX XXX, XXX XX, XXX X and XXXX XXXX},
-  journal={XXXX},
 }
 ```
