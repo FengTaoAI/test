@@ -32,7 +32,7 @@ This repo may be able to be used in the GPU environment, but enough GPU memory i
 
 ### Usage
 
-Testing these models, run
+Use trained model to test, run
 
 ```
 python demo.py
