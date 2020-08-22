@@ -8,8 +8,8 @@ The repo is still under construction, current version provides,
 
 * Trained models <br>
 * The full test inference and Visualization <br>
-* The samples of test image <br>
-* The samples of test results <br>
+* Samples of test image <br>
+* Samples of test results <br>
 
 ### Dependencies
 
