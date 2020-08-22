@@ -42,12 +42,3 @@ python demo.py
 The data and trained model can be found in the folder ```./input```, ```./model```
 
 
-## Citation
-
-Please cite our paper if you find anything helpful, please cite with:
-
-```
-@article{IC2mag,
-  title={Solar Magnetic Field Estimated from the Photospheric Continuum Image with Machine Learning Method},
-}
-```
