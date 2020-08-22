@@ -2,9 +2,10 @@
 
 This repo is the official implementation for our paper: Solar Magnetic Field Estimated from the Photospheric Continuum Image with Machine Learning Method. [[Paper]](https://github.com/FengTaoAI/test/) <br>
 
-![image](https://github.com/Fonnn/test/blob/master/images/visualization.jpeg)
+![image](https://github.com/FengTaoAI/test/images/visualization.jpeg)
 
-The repo is still under construction, current version provides, 
+
+The repo is still under construction, current version provides, https://github.com/Fonnn/test/blob/master/images/visualization.jpeg
 
 * Trained models <br>
 * The full test inference and Visualization <br>
